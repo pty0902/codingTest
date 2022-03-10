@@ -12,7 +12,7 @@ public class Main {
 
     int arr[] = new int[N + 1];
 
-
+    //핫픽스 작업 1
 
     // 마스터 작업 1
 
